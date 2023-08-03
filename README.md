@@ -13,3 +13,5 @@ This plugin is for OCS Agent that will generate the Primary/WIFI MAC address of 
 ### Debugging
 
 - You can test whether the plugin is working or not by opening "C:\ProgramData\OCS Inventory NG\Agent\OCSInventory.log".
+- If you want to increase the debug level then open the "..\Agent\OCSInventory.ini" file and change the Debug from 0 or 1 to your level of choice.
+- Make sure to terminate OCS services in order to edit the configuration settings (of .ini file). You will also have to run it on __Administrator Mode__.
