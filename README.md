@@ -4,7 +4,7 @@ This plugin is for OCS Agent that will generate the Primary/WIFI MAC address of 
 ## USAGE
 
 - Download the plugin folder.
-- Copy the __WifiMACAddress.vbs__ file into OCS Agent's directory: *"..\Plugins\"*.
+- Copy the __WifiMACAddress.vbs__ file into OCS Agent's directory: *"..\Plugins\\"*.
 - Open *"..\NSIS_agent_setup\"* and edit the NSIS script file using an editor.
 - Add the required script code to include the __WifiMACAddress.vbs__ file as part of the OCScompilation script.
 - Run the script using NSIS installer.
